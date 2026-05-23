@@ -10,6 +10,15 @@ A web application that predicts whether a clinical trial will be completed based
 - **AI Chatbot**: Ask questions about predictions, get recommendations, and learn about trial success factors
 - **Actionable Recommendations**: Personalized suggestions to improve trial success probability
 
+## Dataset Access
+
+Due to file size limitations, the processed datasets are hosted externally.
+
+Google Drive Link:
+https://drive.google.com/drive/folders/1mX83PETbVtOEwJpP2ORS80RNr8OhOOYU?usp=sharing
+
+The repository contains all preprocessing, training, and evaluation scripts required to reproduce the experiments.
+
 ## Setup
 
 1. **Install dependencies**:
